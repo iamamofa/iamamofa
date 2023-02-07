@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center"> Hola 👋, I'm Justice Ohene Amofa</h1>
 
 
-<h3 align="center">Junior Data Scientist & Frontend Engineer </h3>
+![](https://github.com/Joamofa1/Joamofa1.github.io/blob/main/ge.gif)
+ 
+![](https://komarev.com/ghpvc/?username=Joamofa1&style=plastic&label=PROFILE+VIEWS)
 
-- 👨‍💻 All of my projects are available at [iamamofa.github.io](https://iamamofa.github.io)
+ - 🔭 I’m currently a Computer Science Student!
+ - 🌱 I’m currently learning flutter
+ - 👯 I’m looking to collaborate on dart and python projects
+ - 🤔 I’m looking for help with Deep learning modelling and Big Data
+ - 💬 Ask me about any tech related stuff
+ 
+ - 📫 How to reach me **Justiceoheneamofa@gmail.com**  
+ - ⚡ Fun fact: I Enjoy Sleeping
 
-- 💬 Ask me about **react,JS,CSS,Dart,Flutter,Data Science**
 
-- 📫 How to reach me **Joamofa@st.ug.edu.gh**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://twitter.com/I_am_Amofa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/justice-ohene-amofa-349b44173/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
+<a href="https://www.instagram.com/i_am_amofa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Justice Ohene Amofa" height="30" width="40" /></a>
+</p>
 
 
-- ⚡ Fun fact **I Think there is a no error...**
+ 
+## Thank You! :wink:
+
 
 
 <h3 align="left">Languages and Tools:</h3>
