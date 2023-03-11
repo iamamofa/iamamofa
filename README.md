@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Joamofa1&style=plastic&label=PROFILE+VIEWS)
 
  - 🔭 I’m currently Graduate!
- - 🌱 I’m currently learning Swift UI and flutter 
+ - 🌱 I’m currently learning Sequencing, Bioinformatics, immunoinformatics, Swift UI and flutter 
  - 👯 I’m looking to collaborate on dart and python projects
  - 🤔 I’m looking for help with Deep learning modelling and Big Data
  - 💬 Ask me about any tech related stuff
