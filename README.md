@@ -13,17 +13,6 @@
  
  - 📫 How to reach me **Justiceoheneamofa@gmail.com**  
  - ⚡ Fun fact: I Enjoy Sleeping
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://twitter.com/I_am_Amofa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> 
-<a href="https://www.linkedin.com/in/justice-ohene-amofa-349b44173/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khushboogoel01" height="30" width="40" /></a>
-<a href="https://www.instagram.com/i_am_amofa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Justice Ohene Amofa" height="30" width="40" /></a>
-</p>
-
-
  
 ## Thank You! :wink:
 
