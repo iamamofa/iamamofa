@@ -1,7 +1,7 @@
 <h1 align="center"> Hola 👋, I'm Justice Ohene Amofa</h1>
 
 
-![](https://github.com/Joamofa1/Joamofa1.github.io/blob/main/ge.gif)
+
  
 ![](https://komarev.com/ghpvc/?username=Joamofa1&style=plastic&label=PROFILE+VIEWS)
 
@@ -11,7 +11,7 @@
  - 🤔 I’m looking for help with Deep learning modelling and Big Data
  - 💬 Ask me about any tech related stuff
  
- - 📫 How to reach me **Justiceoheneamofa@gmail.com**  
+ - 📫 <a>How to reach me </a> ```Justiceoheneamofa@gmail.com```  
  - ⚡ Fun fact: I Enjoy Sleeping
  
 ## Thank You! :wink:
