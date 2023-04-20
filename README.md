@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Joamofa1&style=plastic&label=PROFILE+VIEWS)
 
  - 🔭 I’m currently a Software Engineer and Researcher!
- - 🌱 I’m currently learning alot in Sequencing, Bioinformatics, immunoinformatics, Swift UI and flutter 
+ - 🌱 I’m currently learning alot in Sequencing, Bioinformatics, immunoinformatics, backend development with Django & Mongo DB, Swift UI and flutter 
  - 👯 I’m looking to collaborate on dart and python projects
  - 🤔 I’m looking for help with Deep learning modelling and Big Data
  - 💬 Ask me about any tech related stuff
@@ -14,6 +14,10 @@
  - 📫 <a>How to reach me </a> ```Justiceoheneamofa@gmail.com```  
  - ⚡ Fun fact: I Enjoy Sleeping
  
+ 
+## Stats
+ ![iamomfa GitHub stats](https://github-readme-stats.vercel.app/api?username=iamamofa&show_icons=true&theme=nightowl)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamamofa&hide_progress=true)](https://github.com/iamamofa/github-readme-stats)
 ## Thank You! :wink:
 
 
