@@ -11,7 +11,7 @@
  - 🤔 I’m looking for help with Deep learning modelling and Big Data
  - 💬 Ask me about any tech related stuff
  
- - 📫 <a>How to reach me </a> ```Justiceoheneamofa@gmail.com```  
+ - 📫 <a>How to reach me </a> ```Justiceoheneamofa@gmail.com``` <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
  - ⚡ Fun fact: I Enjoy Sleeping
  
  
