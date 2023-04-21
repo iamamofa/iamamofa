@@ -1,6 +1,6 @@
+
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center"> Hola 👋, I'm Justice Ohene Amofa</h1>
-
-
 
  
 ![](https://komarev.com/ghpvc/?username=Joamofa1&style=plastic&label=PROFILE+VIEWS)
