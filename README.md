@@ -4,10 +4,8 @@
  
 ![](https://komarev.com/ghpvc/?username=Joamofa1&style=plastic&label=PROFILE+VIEWS)
 
- - 🔭 I’m currently a Software Engineer and Enthusiast !
  - 🌱 I’m currently learning alot in Sequencing, Bioinformatics, immunoinformatics, backend development with Django & Mongo DB, Swift UI and flutter 
- - 👯 I’m looking to collaborate on dart and python projects
- - 🤔 I’m looking for help with Deep learning modelling and Big Data
+ - 🤔 I’m looking to learn more in LLM and Deep learning modelling projects.
  - 💬 Ask me about any tech related stuff
  
  - 📫 <a>How to reach me </a> ```Justiceoheneamofa@gmail.com``` <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
