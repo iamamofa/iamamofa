@@ -15,8 +15,7 @@
 ## Stats
  ![iamomfa GitHub stats](https://github-readme-stats.vercel.app/api?username=iamamofa&show_icons=true&theme=nightowl)
  ![iamamofa](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamamofa&theme=monokai)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamamofa&hide_progress=true)](https://github.com/iamamofa/github-readme-stats)
- [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=iamamofa&theme=dark)](https://github.com/iamamofa/github-readme-streak-stats)
+
 ## Thank You! :wink:
 
 
